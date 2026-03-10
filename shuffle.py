@@ -1,0 +1,1 @@
+#all the features which are realted to shuffle, and the functionalities of this feature
